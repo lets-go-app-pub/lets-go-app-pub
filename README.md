@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="LetsGoAppOrganization.drawio (1).svg" alt="Lets Go Architecture" width="900">
+  <img src="TEst.drawio.svg" alt="Lets Go Architecture" width="900">
 </p>
