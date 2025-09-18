@@ -26,7 +26,7 @@ I co-founded and built the product for a two-person startup for ~3 years. I owne
 - **Matching (Algo & Converter)** — Mongo aggregation (JS) + C++ converter to embed pipelines  
   👉 [`Lets_Go_Algorithm_And_Conversion`](https://github.com/lets-go-app-pub/Lets_Go_Algorithm_And_Conversion)
 
-- **Protobuf Files** — protobuf files used to communicate between server and clients
+- **Protobuf Files** — protobuf files used to communicate between server and clients  
   👉 [`Lets_Go_Profobuf`](https://github.com/lets-go-app-pub/Lets_Go_Profobuf)
 
 - **Docs & Deployment Notes** — release checklists, SSL testing, Mongo RS commands  
