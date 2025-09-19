@@ -21,7 +21,7 @@ A mobile app for meeting people to **do activities together**. Think swipeable m
 - **Video Games:** FPS, Racing, MMORPG
 
 <details>
-<summary>See the fuller activity list</summary>
+<summary>See the complete activity list.</summary>
 
 - **Pick-Up Sports:** Baseball, Basketball, Football, Golf, Hockey, Pickleball, Soccer, Ultimate Frisbee, Volleyball
 - **Working Out:** Crossfit, Cycling, Dance, MMA, Pilates, Running, Swimming, Weight Training, Yoga
