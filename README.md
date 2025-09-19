@@ -27,7 +27,7 @@ I co-founded and built the product for a two-person startup for ~3 years. I owne
   👉 [`Lets_Go_Algorithm_And_Conversion`](https://github.com/lets-go-app-pub/Lets_Go_Algorithm_And_Conversion)
 
 - **Protobuf Files** — protobuf files used to communicate between server and clients  
-  👉 [`Lets_Go_Protobuf`](https://github.com/lets-go-app-pub/Lets_Go_Profobuf)
+  👉 [`Lets_Go_Protobuf`](https://github.com/lets-go-app-pub/Lets_Go_Protobuf)
 
 - **Docs & Deployment Notes** — release checklists, SSL testing, Mongo RS commands  
   👉 [`Lets_Go_Docs`](https://github.com/lets-go-app-pub/Lets_Go_Docs)
