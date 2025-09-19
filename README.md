@@ -14,138 +14,31 @@ A mobile app for meeting people to **do activities together**. Think swipeable m
 
 ## Activities & categories (samples)
 - **Pick-Up Sports:** Basketball, Soccer, Volleyball  
-- **Working Out:** Running, Yoga, Weight Training  
 - **Food:** Brunch, Sushi, Mexican  
 - **Adventures:** Hiking, Boating, Skiing  
 - **Social Drinking & Tastings (21+):** Beer, Wine  
-- **Board & Card Games:** Chess, Catan, Magic: The Gathering  
-- **Movies/TV & Concerts:** Comedy, Rock, EDM  
 - **DIY & Personal Development:** Home Care, Investing & Finances  
 - **Video Games:** FPS, Racing, MMORPG
 
 <details>
 <summary>See the fuller activity list</summary>
 
-(1)Pick-Up Sports
-├───Baseball
-├───Basketball
-├───Football
-├───Golf
-├───Hockey
-├───Pickleball
-├───Soccer
-├───Ultimate Frisbee
-└───Volleyball
-(2)Working Out
-├───Crossfit
-├───Cycling
-├───Dance
-├───MMA
-├───Pilates
-├───Running
-├───Swimming
-├───Weight Training
-└───Yoga
-(3)Food
-├───American
-├───Brunch
-├───Chinese
-├───Indian
-├───Italian
-├───Mexican
-├───Pho
-├───Sushi
-└───Thai
-(4)Adventures
-├───Band Jam Session
-├───Bar Hopping(21)
-├───Boating
-├───Clubbing(21)
-├───Dancing
-├───Hiking
-├───Shopping
-├───Skiing
-├───Snowboarding
-└───Water Activities
-(5)Social Drinking & Tastings(21)
-├───Beer
-├───Spirits
-└───Wine
-Beauty
-├───Hair
-├───Makeup
-├───Mani Pedi
-└───Skin Care
-Board Games
-├───Catan
-├───Checkers
-├───Chess
-├───Dominoes
-├───Dungeons & Dragons
-├───Monopoly
-├───Pictionary
-└───Scrabble
-Collectable Card Games
-├───Magic The Gathering
-├───Pokemon
-└───Yu-Gi-Oh!
-Concerts
-├───Country
-├───EDM
-├───Hip-Hop
-├───Indie
-├───Jazz
-├───Oldies
-├───Pop
-├───Rap
-└───Rock
-DIY
-├───Cars
-├───Home_Care
-├───Refurbish Items
-└───Restore Antiques
-Movies & TV
-├───Action_Adventure
-├───Comedy
-├───Drama
-├───Reality TV
-└───Thriller_Suspense
-Personal Development
-├───Emotional
-├───Intellectual
-├───Investing & Finances
-└───Relational
-Play Dates(18)
-├───Board Games
-├───Crafts
-├───Fun-In-The-Kitchen
-├───Movies
-├───Outings
-└───Park-Day
-Poker
-├───5 Card Draw
-├───7 Card Stud
-├───Blind Man's Bluff
-├───Omaha Hold'em
-└───Texas Hold 'em
-Sporting Entertainment
-├───Baseball
-├───Basketball
-├───Boxing
-├───Football
-├───Golf
-├───Hockey
-├───MMA
-├───Soccer
-└───Tennis
-Video Games
-├───Battle Royale
-├───Digital Card Games
-├───FPS
-├───MMORPG
-├───MOBA
-├───Racing
-└───Sports
+- **Pick-Up Sports:** Baseball, Basketball, Football, Golf, Hockey, Pickleball, Soccer, Ultimate Frisbee, Volleyball
+- **Working Out:** Crossfit, Cycling, Dance, MMA, Pilates, Running, Swimming, Weight Training, Yoga
+- **Food:** American, Brunch, Chinese, Indian, Italian, Mexican, Pho, Sushi, Thai
+- **Adventures:** Band Jam Session, Bar Hopping (21+), Boating, Clubbing (21+), Dancing, Hiking, Shopping, Skiing, Snowboarding, Water Activities
+- **Social Drinking & Tastings (21+):** Beer, Spirits, Wine
+- **Beauty:** Hair, Makeup, Mani Pedi, Skin Care
+- **Board Games:** Catan, Checkers, Chess, Dominoes, Dungeons & Dragons, Monopoly, Pictionary, Scrabble
+- **Collectable Card Games:** Magic The Gathering, Pokemon, Yu-Gi-Oh!
+- **Concerts:** Country, EDM, Hip-Hop, Indie, Jazz, Oldies, Pop, Rap, Rock
+- **DIY:** Cars, Home_Care, Refurbish Items, Restore Antiques
+- **Movies & TV:** Action_Adventure, Comedy, Drama, Reality TV, Thriller_Suspense
+- **Personal Development:** Emotional, Intellectual, Investing & Finances, Relational
+- **Play Dates (18+):** Board Games, Crafts, Fun-In-The-Kitchen, Movies, Outings, Park-Day
+- **Poker:** 5 Card Draw, 7 Card Stud, Blind Man's Bluff, Omaha Hold'em, Texas Hold 'em
+- **Sporting Entertainment:** Baseball, Basketball, Boxing, Football, Golf, Hockey, MMA, Soccer, Tennis
+- **Video Games:** Battle Royale, Digital Card Games, FPS, MMORPG, MOBA, Racing, Sports
 
 </details>
 
